@@ -13,13 +13,13 @@ I am a dedicated software engineer specializing in Machine Learning, Deep Learni
   I engineer efficient software solutions for resource-constrained embedded systems. My expertise includes low-level programming, hardware acceleration (e.g., FPGA, NVIDIA GPUs), and real-time system optimization.
 
 ## Skills & Technologies
-- **Languages:** Python, C/C++, CUDA  
+- **Languages:** Python, C/C++, CUDA, Swift
 - **Frameworks & Libraries:** TensorFlow, PyTorch, OpenCV, TensorRT  
-- **Hardware:** FPGA, NVIDIA GPUs, Embedded Systems  
+- **Hardware:** NVIDIA GPUs, Embedded Systems  
 - **Expertise:** Algorithm design, optimization, quantization-aware training, latency reduction, and robust system integration
 
 ## Let's Collaborate
 I'm passionate about pushing the boundaries of technology and am eager to work with teams and companies at the forefront of ML, DL, camera systems, and embedded software development. If you're looking for an engineer who combines technical prowess with a creative approach to problem-solving, let's connect!
 
 ## Contact
-Feel free to reach out at [your.email@example.com] or connect with me through my GitHub profile.
+Feel free to reach out at [s910247@gmail.com] or connect with me through my GitHub profile.
