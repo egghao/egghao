@@ -6,16 +6,14 @@ I am a dedicated software engineer specializing in Machine Learning, Deep Learni
 - **Machine Learning & Deep Learning:**  
   I design, develop, and optimize advanced ML/DL models to tackle complex problems, ranging from image classification to object detection. My work emphasizes model efficiency, robust performance, and deployment on edge devices.
 
-- **Camera Software & Computer Vision:**  
+- **Computer Vision:**  
   I create and refine real-time camera software pipelines, enhancing image processing and analysis. My projects focus on achieving low latency and high accuracy, integrating state-of-the-art computer vision techniques.
-
-- **Embedded Software Engineering:**  
-  I engineer efficient software solutions for resource-constrained embedded systems. My expertise includes low-level programming, hardware acceleration (e.g., FPGA, NVIDIA GPUs), and real-time system optimization.
 
 ## Skills & Technologies
 - **Languages:** Python, C/C++, CUDA, Swift
-- **Frameworks & Libraries:** TensorFlow, PyTorch, OpenCV, TensorRT  
-- **Hardware:** NVIDIA GPUs, Embedded Systems  
+- **Frameworks & Libraries:** TensorFlow, PyTorch, OpenCV, TensorRT
+- **MLOps:** Tensorboard, MLflow, W&B
+- **Hardware:** NVIDIA GPUs
 - **Expertise:** Algorithm design, optimization, quantization-aware training, latency reduction, and robust system integration
 
 ## Let's Collaborate
