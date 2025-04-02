@@ -1,13 +1,14 @@
 # Hello, I'm @egghao 👋
 
-I am a dedicated software engineer specializing in Machine Learning, Deep Learning, Camera Software, and Embedded Systems. I thrive on merging cutting-edge algorithms with robust hardware solutions to build innovative products that address real-world challenges.
+I am a dedicated software engineer specializing in Machine Learning, Deep Learning and Computer Vision. I thrive on merging cutting-edge algorithms with robust hardware solutions to build innovative products that address real-world challenges.
 
 ## What I Do
 - **Machine Learning & Deep Learning:**  
   I design, develop, and optimize advanced ML/DL models to tackle complex problems, ranging from image classification to object detection. My work emphasizes model efficiency, robust performance, and deployment on edge devices.
 
 - **Computer Vision:**  
-  I create and refine real-time camera software pipelines, enhancing image processing and analysis. My projects focus on achieving low latency and high accuracy, integrating state-of-the-art computer vision techniques.
+  I create and refine real-time object detection pipelines, enhancing performance with low latency and high accuracy. My projects integrate state-of-the-art computer vision techniques, including utilizing 3D Gaussian Splatting to construct indoor spaces for [Xplorer](https://www.homee.ai/xplorer) and implementing real-time object detection for product deployment. This work not only supports the company's expansion into new manufacturing domains but has also contributed to award-winning achievements, such as the AI AOI application recognized in the [AI Award Best Solution](https://www.favite.com/news/%e6%99%b6%e5%bd%a9%e7%a7%91%e6%8a%80ai-aoi%e6%87%89%e7%94%a8-%e7%8d%b2%e9%81%b8ai-award-best-solution%ef%bc%81/).
+
 
 ## Skills & Technologies
 - **Languages:** Python, C/C++, CUDA, Swift
