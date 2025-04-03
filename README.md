@@ -2,6 +2,8 @@
 
 I am a dedicated software engineer specializing in Machine Learning, Deep Learning and Computer Vision. I thrive on merging cutting-edge algorithms with robust hardware solutions to build innovative products that address real-world challenges.
 
+Check out [my personal page](https://egghao.github.io/)!
+
 ## What I Do
 - **Machine Learning & Deep Learning:**  
   I design, develop, and optimize advanced ML/DL models to tackle complex problems, ranging from image classification to object detection. My work emphasizes model efficiency, robust performance, and deployment on edge devices.
